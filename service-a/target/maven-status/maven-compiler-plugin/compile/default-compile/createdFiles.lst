@@ -1,0 +1,3 @@
+com\example\servicea\config\RestTemplateConfig.class
+com\example\servicea\ServiceAApplication.class
+com\example\servicea\controller\ServiceAController.class
